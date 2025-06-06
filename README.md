@@ -50,5 +50,5 @@ Whether you're using it via text or voice, Chatty aims to be helpful, responsive
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/chatty.git
+   git clone https://github.com/heyitsR1/chatty.git
    cd chatty
